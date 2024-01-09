@@ -1,0 +1,11 @@
+// Route to create and register new user 
+
+Post Request on -- http://localhost:5000/auth/register 
+
+//Route to login the user new user 
+http://localhost:5000/auth/login
+
+
+
+//ROute to check whether the user is logged in for admin.
+http://localhost:5000/user/checkauthentication/
